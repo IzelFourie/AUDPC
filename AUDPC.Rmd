@@ -1,0 +1,24 @@
+---
+title: "AUDPC Analysis"
+author: "Izel Fourie Sørensen"
+date: "September 19, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Packages and data
+
+```{r packages, message=FALSE}
+library("dplyr")
+library("ggplot2")
+```
+
+# Session information
+
+```{r session_info}
+sessionInfo()
+```
+
