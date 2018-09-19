@@ -24,4 +24,5 @@ Tis part record information about what version of R I am using.
 ```{r session_info}
 sessionInfo()
 ```
+Hallo
 
