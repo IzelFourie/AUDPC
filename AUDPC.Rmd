@@ -11,6 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Packages and data
 
+These are the packages I will be using
+
 ```{r packages, message=FALSE}
 library("dplyr")
 library("ggplot2")
@@ -18,6 +20,7 @@ library("ggplot2")
 
 # Session information
 
+Tis part record information about what version of R I am using.
 ```{r session_info}
 sessionInfo()
 ```
