@@ -1,8 +1,8 @@
 ---
 title: "R markdown example"
 author: "Izel Fourie Sørensen"
-date: "September 19, 2018"
-output: html_document
+date: date: "`r format(Sys.Date())`"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
